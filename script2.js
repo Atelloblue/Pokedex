@@ -611,7 +611,7 @@ const displayPokemonDetails = async (pokemon) => {
   <div class="overview">
   <p><span class="genus">${genus}</span><br>${overview}</p>
   <div class="heightWeight">
-  <span>Height <br><b>${height}</b></span>
+  <span>Height|<br><b>${height}</b></span>
   <span>Weight<br><b>${weight}</b></span>
   </div>
 
